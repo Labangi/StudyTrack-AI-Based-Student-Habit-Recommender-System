@@ -1,4 +1,4 @@
-# StudyTrack AI - Student Dropout Prediction System
+# StudyTrack AI - Student Study Habit Recommendarion System
 
 A machine learning-powered web application that predicts student dropout risk and provides personalized study recommendations using AI.
 
@@ -214,3 +214,4 @@ This project is for educational purposes.
 ## 👨‍💻 Support
 
 For issues or questions, please check the code comments or error messages in the browser console (F12).
+
